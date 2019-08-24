@@ -10,4 +10,4 @@
 
 - Get more experience with Redux
 - Learn more about how to build project structure with many connected components
-- Try to use OOP and get deeper in there  
+- Try to use patterns to build the app  
